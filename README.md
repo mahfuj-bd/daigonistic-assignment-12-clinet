@@ -1,8 +1,9 @@
-# React + Vite
+# Five Special Features on my wbsite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* 1. Dynamic website
+* 2. Athuntication 
+* 3. Private Route
+* 4. MongoDB Database
+* 5. Express Server
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live LInk : https://assignment-12-c6253.web.app/
